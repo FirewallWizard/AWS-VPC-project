@@ -1,4 +1,27 @@
 # AWS-VPC-project
+
+## Objective
+
+The Amazon VPC project aimed to create a secure, logically isolated network within AWS to understand and configure critical components like subnets, internet gateways, and route tables. This hands-on experience focused on deploying and managing AWS resources, configuring secure connections, and optimizing network security with security groups and network ACLs. The project was designed to enhance knowledge of cloud networking and security best practices within AWS.
+
+### Skills Learned
+
+- Proficient in creating and managing Amazon VPCs, subnets, and internet gateways.
+- Deep understanding of CIDR block allocation and IP address management.
+- Experience in configuring route tables and securing traffic flow.
+- Knowledge of managing traffic using security groups and network ACLs for subnet and resource security.
+- Developed skills in securing cloud environments by controlling inbound and outbound traffic at both the subnet and resource levels.
+
+### Tools Used
+
+- Amazon VPC for configuring and managing isolated cloud networks.
+- Route tables for directing traffic within the VPC.
+- Internet gateways for enabling internet connectivity for AWS resources.
+- Security groups for controlling access to specific resources based on IP addresses, protocols, and ports.
+- Network ACLs for subnet-level traffic control and security enforcement.
+
+## Steps
+
 ![image](https://github.com/user-attachments/assets/8771cc96-9be2-4af6-bcde-635750728c44)
 
 
